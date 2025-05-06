@@ -1,4 +1,4 @@
-# ML_Projec
+# ML_Project
 
 CS 4774 Final Project Code
 
